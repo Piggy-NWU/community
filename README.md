@@ -12,5 +12,8 @@
 [Github OAuth](https://docs.github.com/en/developers/apps/building-oauth-apps/creating-an-oauth-app)
 
 [OkHttp](https://square.github.io/okhttp/)
+
+[Spring-Boot](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#boot-features-embedded-database-support)
+
 ##  工具
 [Visual Paradigm](https://www.visual-paradigm.com/cn/)
