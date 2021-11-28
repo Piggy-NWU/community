@@ -19,10 +19,7 @@
 
 ##  工具
 [Visual Paradigm](https://www.visual-paradigm.com/cn/)
-11
 
-
-222
 ##  脚本
 ```SQL
 create table USER
