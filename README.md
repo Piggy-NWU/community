@@ -15,5 +15,21 @@
 
 [Spring-Boot](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#boot-features-embedded-database-support)
 
+[Spring-Boot Mybatis](http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)
 ##  工具
 [Visual Paradigm](https://www.visual-paradigm.com/cn/)
+
+##  脚本
+```SQL
+create table USER
+(
+    ID           INT auto_increment,
+    ACCOUNT_ID   VARCHAR(100),
+    NAME         VARCHAR(50),
+    TOKEN        CHAR(36),
+    GMT_CREATE   BIGINT,
+    GMT_MODIFIED BIGINT,
+    constraint USER_PK
+    primary key (ID)
+);
+```
